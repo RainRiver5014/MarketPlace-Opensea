@@ -155,3 +155,4 @@ If a user sold an NFT, he can claim his funds by clicking the button in the top-
 - [react.js](https://reactjs.org/)
 - [IPFS](https://ipfs.io/)
 # MarketPlace-Opensea
+# MarketPlace-Opensea
